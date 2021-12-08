@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "기록장"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "배우고 한 것을 기록하는-기록장" # site tagline that appears below site title in masthead
 name                     : "CCY"
-description              : "배우고 한 것을 기록하는-기록장"
+description              : #"배우고 한 것을 기록하는-기록장"
 url                      : "https://gitmume.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "CCY"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "배우는 중 입니다. -u-"
   location         : "South Korea"

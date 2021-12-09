@@ -15,15 +15,15 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko"
 title                    : "기록장"
 title_separator          : "-"
-subtitle                 : "배우고 한 것을 기록하는-기록장" # site tagline that appears below site title in masthead
+subtitle                 : #"배우고 한 것을 기록하는-기록장" # site tagline that appears below site title in masthead
 name                     : "CCY"
-description              : #"배우고 한 것을 기록하는-기록장"
+description              : "배우고 한 것을 기록하는-기록장"
 url                      : "https://gitmume.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "GitMume/GitMume.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "CCY"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "배우는 중 입니다. -u-"
   location         : "South Korea"
-  email            :
+  email            : "imrebecca99@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto: imrebecca99@gmail.com"
+      url: "mailto: imrebecca99@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
